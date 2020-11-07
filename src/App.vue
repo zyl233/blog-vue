@@ -12,6 +12,14 @@
 </template>
 
 <style>
+
+#app{
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+
+
 /*#app {*/
 /*  font-family: Avenir, Helvetica, Arial, sans-serif;*/
 /*  -webkit-font-smoothing: antialiased;*/
